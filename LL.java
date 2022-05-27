@@ -51,7 +51,7 @@ class LL implements Cloneable, java.io.Serializable {
 	}
 
 	Node addCart() throws CloneNotSupportedException {
-		System.out.println("Enter your choice as per follwing");
+		System.out.println("Enter your choice");
 
 		int a = sc.nextInt();
 		Node temp = findbyindex(a - 1);
