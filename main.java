@@ -68,7 +68,7 @@ class main implements Serializable {
                     custumer_no++;
                     do {
                         if (count1 == 0) {
-                            System.out.println("Catagoarys of products as follows");
+                            System.out.println("nit supported");
                         } else {
                             System.out.println("Buy from other categories");
                         }
