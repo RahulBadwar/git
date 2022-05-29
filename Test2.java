@@ -4,6 +4,6 @@ class Test2{
 		System.out.println("gggg");
 		System.out.println("yyy");
 		System.out.println("ggg");
-		System.out.println("making changes in branch b1");
+		System.out.println("changes made in master");
 	}
 }
